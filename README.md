@@ -2,7 +2,7 @@
 Projekat za Napredni Razvoj Softvera - Ugostiteljski objekat
 
 
-## Clanovi tima
+## Članovi tima
 - Gojak Mirza
 - Čaušević Faris
 - Čaluk Jasmin
